@@ -784,6 +784,8 @@
         "clusters_grow": "clusters.grow",
         "clusters_list": "clusters.list",
         "clusters_shrink": "clusters.shrink",
+        "clusters_resize_instances": "clusters.resize_instances",
+        "clusters_resize_volume": "clusters.resize_volume",
         "configuration_parameters_find": "configuration_parameters.find",
         "configuration_parameters_findall": "configuration_parameters.findall",
         "configuration_parameters_get_parameter": "configuration_parameters.get_parameter",
